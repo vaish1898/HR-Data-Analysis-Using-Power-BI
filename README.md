@@ -50,7 +50,7 @@ Enable real-time data integration with platforms like Workday
 Expand demographics to include age, education, and job role
 
 **📌 Files Included**
-HR_Summary_Data.xlsx – Mock HR dataset
+HRData.xlsx – HR dataset
 
 HR_Dashboard.pbix – Power BI dashboard file
 
