@@ -1,59 +1,59 @@
-🔍 Overview
-This Power BI dashboard analyzes HR data to uncover insights on employee demographics, salary distribution, satisfaction levels, and hiring trends. It enables HR teams to make data-driven decisions and optimize workforce management.
+**🔍 Project Overview**
+This interactive Power BI dashboard provides a comprehensive analysis of HR data to uncover actionable insights related to employee demographics, salary distribution, satisfaction levels, and hiring patterns. Designed to support strategic HR decision-making, the dashboard enables workforce optimization through clear visualizations and executive-ready KPIs.
 
-📁 Dataset Features
+**📁 Dataset Summary**
 311 employee records
 
-Demographics, department, salary, employment status, hiring & performance data
+Includes: Demographics, department, salary, employment status, hiring dates, performance ratings
 
 Total salary spend: $25M
 
-🎯 Key Objectives
+**🎯 Project Objectives**
 Visualize employee distribution by department, gender, and employment status
 
-Analyze salary breakdown by gender and department
+Analyze salary trends by gender and department
 
-Evaluate employee satisfaction and hiring trends
+Track employee satisfaction and hiring over time
 
-Build a clean, executive-ready dashboard with slicers and filters
+Deliver a clean, interactive dashboard with slicers and filters for dynamic exploration
 
-🛠️ Tools & Techniques
-Power BI: Dashboard creation
+**🛠️ Tools & Techniques**
+Power BI: Data modeling, report design, dashboard creation
 
 Power Query: Data cleaning and transformation
 
-DAX: Calculated columns and measures
+DAX: Custom measures and calculated columns
 
-Excel: Data source
+Excel: Raw data source
 
-📊 Dashboard Highlights
-High-level KPIs: Total Salary, Total Employees
+**📊 Dashboard Highlights**
+Key KPIs: Total Employees, Total Salary Spend
 
-Visuals: Pie charts, stacked bars, line graphs, donut charts
+Visuals: Pie charts, stacked bar graphs, donut charts, and line charts
 
-Insights on gender pay equity, turnover rates, and departmental performance
+Focus Areas: Gender pay gap, attrition risk, departmental performance
 
-💡 Key Insights
-Sales & Production lead in headcount and salary spend
+**💡 Insights Uncovered**
+Sales and Production departments lead in both headcount and salary allocation
 
-Male employees earn slightly more across most departments
+Male employees earn slightly higher salaries across most departments
 
-One-third of employees are no longer active, indicating turnover risk
+Around one-third of employees are no longer active, suggesting potential turnover concerns
 
-Majority of employees report satisfaction scores of 3–4
+Majority of employees report satisfaction scores between 3 and 4
 
-🚀 Future Enhancements
-Add tenure analysis and predictive churn models
+**🚀 Next Steps / Future Enhancements**
+Integrate tenure-based insights and build predictive churn models
 
-Real-time integration with HR systems (e.g., Workday)
+Enable real-time data integration with platforms like Workday
 
-Include additional demographics like age, education, role
+Expand demographics to include age, education, and job role
 
-📌 Files Included
+**📌 Files Included**
 HR_Summary_Data.xlsx – Mock HR dataset
 
-HR_Dashboard.pbix – Power BI file
+HR_Dashboard.pbix – Power BI dashboard file
 
-📥 Want Access?
-Comment or message me to receive the .pbix and dataset files!
+**📥 Interested in exploring the dashboard?**
+Comment below or DM me to receive the dataset and .pbix file!
 
