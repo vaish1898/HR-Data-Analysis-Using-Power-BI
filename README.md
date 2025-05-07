@@ -56,5 +56,5 @@ HR_Dashboard.pbix – Power BI dashboard file
 
 **📥 Interested in exploring the dashboard?**
 📸 Dashboard preview and file available in this repository.
-📬 Connect with me on LinkedIn
+📬 Connect with me on LinkedIn(https://www.linkedin.com/in/vaishnavi-raut18/)
 
