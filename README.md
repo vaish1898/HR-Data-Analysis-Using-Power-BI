@@ -55,5 +55,6 @@ HR_Summary_Data.xlsx – Mock HR dataset
 HR_Dashboard.pbix – Power BI dashboard file
 
 **📥 Interested in exploring the dashboard?**
-Comment below or DM me to receive the dataset and .pbix file!
+📸 Dashboard preview and file available in this repository.
+📬 Connect with me on LinkedIn
 
